@@ -1,4 +1,4 @@
-#Project 2 - Maximizing Baseball Run Creation
+# Project 2 - Maximizing Baseball Run Creation
 
 For our second project at the Metis Data Science Bootcamp, we were tasked with creating a Linear Regression model to make a prediction based on existing data.
 
