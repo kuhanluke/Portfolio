@@ -6,7 +6,7 @@ Projects from my early days in data science
 * What factors in a baseball player's batted ball profile contribute most to his ability to create runs?
 * A full writeup of this project is available on my blog at [naaimsiddiqi.com](https://naaimsiddiqi.com/maximizing-baseball-run-creation/)
 
-## Project 3 - [Predicting the 2020 Oscars](/Predicting%20th%202020%20Oscars)
+## Project 3 - [Predicting the 2020 Oscars](/Predicting%20the%202020%20Oscars)
 
 * Can we predict the winners of the Oscars based on how the winners performed at the other major awards shows?
 
